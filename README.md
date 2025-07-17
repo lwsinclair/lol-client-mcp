@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/johnnyinlee-lol-client-mcp-badge.png)](https://mseep.ai/app/johnnyinlee-lol-client-mcp)
+
 # LoL Client MCP
 
 An MCP (Model-Controller-Processor) server for accessing League of Legends client data. This server provides a collection of tools that communicate with the League of Legends Live Client Data API to retrieve in-game data.
